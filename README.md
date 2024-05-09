@@ -121,12 +121,10 @@ Publish the website in the given URL.
        document.getElementById('t1').value = y;
    }
 </script>
-
-</html>
 ```
-## OUTPUT:
-![image](https://github.com/Karsavarthan/Calc/assets/139841970/9ff059fd-4dcc-45ec-aecf-2282b17ec422)
-![image](https://github.com/Karsavarthan/Calc/assets/139841970/35f9f874-0f78-4d52-be48-a6d1b6380843)
+## OUTPUT
+![Screenshot 2024-05-09 144405](https://github.com/Karsavarthan/Calc/assets/139841970/f90f0129-0dcb-4ebe-9855-cc6d8ac60920)
+![Screenshot 2024-05-09 144417](https://github.com/Karsavarthan/Calc/assets/139841970/b7275c34-7498-4690-94e5-bafdd0bfa319)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
